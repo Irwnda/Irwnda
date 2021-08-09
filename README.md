@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Achmad Akbar Irwanda. I am currently undergraduate student of **Informatics ITS** batch 2019. I love competitive programming and currently I'm learning webdev.
+
+![Irwanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwnda&theme=cobalt)
 
 <!--
 **Irwnda/Irwnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
