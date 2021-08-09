@@ -1,4 +1,6 @@
 ### Hi there 👋
+![codewars badge](https://www.codewars.com/users/Irwanda/badges/large)
+
 My name is Achmad Akbar Irwanda. I am currently undergraduate student of **Informatics ITS** batch 2019. I love competitive programming and currently I'm learning webdev.
 
 ![Irwanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwnda&theme=cobalt)
