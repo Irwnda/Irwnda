@@ -5,7 +5,7 @@ My name is Achmad Akbar Irwanda. I am currently undergraduate student of **Infor
 
 ![Irwanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=irwnda&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irwnda&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Irwnda&layout=compact&langs_count=8)
 
 <!--
 **Irwnda/Irwnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
