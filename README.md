@@ -5,7 +5,7 @@
 <br/>
 
 ## 🙋‍♂️ About Me
-- 👀 I’m interested in web developer.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently undergraduate student of **Informatics ITS**, and Udemy Student 
 - 💞️ Falling in love with programming
 - 📫 You can contact via Gmail <a href="mailto:irwandaa7@gmail.com?">irwandaa7@gmail.com</a> or <a href="mailto:irwanda@cahinfor.com?">irwanda@cahinfor.com</a>
@@ -23,24 +23,21 @@
 <!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
 </p>
 
+## 📊 My Github Stats
+
 <p align="center">
     <a href="https://github.com/Irwnda">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akbar Irwanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Irwnda&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
-</p>
-
-## 📊 My Github Stats
-
-<br/>
-<a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Irwnda&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
+    <a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Irwnda&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
 <a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwnda&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
 <br/>
 <b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 <br/>
 <br/>
 <a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Irwnda&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+</p>
+
 
 ## Connect with me:
 <p align="left">
@@ -53,9 +50,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Irwnda">
-</a>
+<img src="https://komarev.com/ghpvc/?username=Irwnda">
 <a href="https://github.com/Irwnda?tab=followers"><img src="https://img.shields.io/github/followers/Irwnda?label=Followers&style=social" alt="GitHub Badge"></a>
 <!--
 **Irwnda/Irwnda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
