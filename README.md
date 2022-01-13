@@ -30,9 +30,6 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akbar Irwanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Irwnda&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
     </a>
     <a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Irwnda&show_icons=true&count_private=true&title_color=eccb14&text_color=ffffff&icon_color=785eef&hide_border=true&bg_color=0e0e0e" /></a>
-<a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irwnda&langs_count=8&count_private=true&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0e0e0e" /></a>
-<br/>
-<b>Note:</b> Top languages is <b>only a metric</b> of the languages my <b>public code</b> consists of and <b>doesn't reflect</b> experience or <b>skill level</b>.
 <br/>
 <br/>
 <a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Irwnda&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
