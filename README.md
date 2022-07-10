@@ -1,6 +1,6 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, my name is <a href="https://github.com/Irwnda">Akbar Irwanda</a></h1>
+# 👋 Hello!
 
-<h3 align="center">I am currently undergraduate student of **Informatics ITS** batch 2019. I love competitive programming and currently I'm learning webdev.</h3>
+Informatics Student at Sepuluh Nopember Institute of Technology with expertise in web development, especially React.js and React Native for mobile application, programming language such as C++, JavaScript, Python and often use program like Microsoft Excel and Microsoft Word. Love to share knowledge with other and has some experience in teaching/assistant.
 
 <br/>
 
