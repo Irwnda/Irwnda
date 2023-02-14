@@ -2,40 +2,38 @@
 
 Informatics Student at Sepuluh Nopember Institute of Technology with expertise in web development, especially React.js and React Native for mobile application, programming language such as C++, JavaScript, Python and often use program like Microsoft Excel and Microsoft Word. Love to share knowledge with other and has some experience in teaching/assistant.
 
-<br/>
 
 ## 🙋‍♂️ About Me
 - 👀 I’m interested in web development.
 - 🌱 I’m currently undergraduate student of **Informatics ITS**, and Udemy Student 
 - 💞️ Falling in love with programming
-- 📫 You can contact via Gmail <a href="mailto:irwandaa7@gmail.com?">irwandaa7@gmail.com</a> or <a href="mailto:irwanda@cahinfor.com?">irwanda@cahinfor.com</a>
+- 📫 You can contact via Gmail [irwandaa7@gmail.com](mailto:irwandaa7@gmail.com) or [irwanda@cahinfor.com](mailto:irwanda@cahinfor.com)
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org" target="_blank"><img src="https://img.icons8.com/office/50/000000/react.png"/></a>
-    <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-<!--     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-<!--     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>  -->
-</p>
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![Javascript](https://img.icons8.com/color/48/000000/javascript.png)
+![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
+![React](https://img.icons8.com/office/48/000000/react.png)
+![Laravel](https://img.icons8.com/fluency/48/laravel.png)
+![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
+![Visual Studio](https://img.icons8.com/fluency/48/visual-studio.png)
+
 
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/Irwnda">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akbar Irwanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Irwnda&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
-    </a>
-<br/>
-<br/>
-<a href="https://github.com/Irwnda"><img alt="Akbar Irwanda's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Irwnda&bg_color=0e0e0e&color=eccb14&line=eccb14&point=FFFFFF&hide_border=true" /></a>
+    <br/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irwnda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irwnda&layout=compact&langs_count=8&theme=algolia"/>
+
 </p>
 
 
 ## Connect with me:
+
 <p align="left">
 
   <a href = "https://www.linkedin.com/in/AkbrIrwnda/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
