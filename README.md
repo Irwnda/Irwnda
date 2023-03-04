@@ -25,9 +25,7 @@ Informatics Student at Sepuluh Nopember Institute of Technology with expertise i
 
 <p align="center">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Akbar Irwanda's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Irwnda&theme=vision-friendly-dark&hide_border=true&stroke=0000&background=0e0e0e"/>
-    <br/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irwnda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irwnda&layout=compact&langs_count=8&theme=algolia"/>
 
 </p>
 
