@@ -1,24 +1,28 @@
-# 👋 Hello!
+# 👋 Hello, Akbar Irwanda here!
 
-Informatics Student at Sepuluh Nopember Institute of Technology with expertise in web development, especially React.js and React Native for mobile application, programming language such as C++, JavaScript, Python and often use program like Microsoft Excel and Microsoft Word. Love to share knowledge with other and has some experience in teaching/assistant.
+Hi, I’m Akbar Irwanda, a passionate software developer with a strong focus on building scalable and efficient web applications. Currently, I’m working in Jenius by SMBC Indonesia in the Node.js environment (Fullstack js). I’m also expanding my skill set by diving into Ruby on Rails and GoLang on my personal projects.
 
-
-## 🙋‍♂️ About Me
-- 👀 I’m interested in web development.
-- 🌱 I’m currently undergraduate student of **Informatics ITS**, and Udemy Student 
-- 💞️ Falling in love with programming
-- 📫 You can contact via Gmail [irwandaa7@gmail.com](mailto:irwandaa7@gmail.com) or [irwanda@cahinfor.com](mailto:irwanda@cahinfor.com)
+Forever learner who love to share knowledge, I love to learn something new and build something using it. Have experiences building website using Laravel, Reactjs, Next, Wordpress for my clients. I thrive in dynamic environments where I can continuously learn, adapt, and contribute to cutting-edge solutions. Whether it’s refining existing systems or building new ones from the ground up, I’m committed to delivering high-quality, maintainable, and user-centric software.
 
 ## 🚀 Languages and Tools:
 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS](https://img.icons8.com/color/48/000000/css3.png)
-![Javascript](https://img.icons8.com/color/48/000000/javascript.png)
-![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
+![Express](https://img.icons8.com/color/48/000000/express-js.png)
 ![React](https://img.icons8.com/office/48/000000/react.png)
+![Javascript](https://img.icons8.com/color/48/000000/javascript.png)
+![Typescript](https://img.icons8.com/color/48/000000/typescript.png)
+![Tailwind](https://img.icons8.com/color/48/000000/tailwindcss.png)
+
 ![Laravel](https://img.icons8.com/fluency/48/laravel.png)
+![Ruby on Rails](https://img.icons8.com/windows/48/ruby-on-rails.png)
+![Python](https://img.icons8.com/color/48/python.png)
+![C#](https://img.icons8.com/color/48/c-sharp-logo.png)
+![GoLang](https://img.icons8.com/color/48/000000/golang.png)
+
 ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png)
 ![Visual Studio](https://img.icons8.com/fluency/48/visual-studio.png)
+![Web Storm](https://img.icons8.com/color/48/webstorm.png)
+![PyCharm](https://img.icons8.com/color/48/pycharm.png)
+
 
 
 ## 📊 My Github Stats
@@ -33,7 +37,7 @@ Informatics Student at Sepuluh Nopember Institute of Technology with expertise i
 ## Connect with me:
 
 <p align="left">
-
+  <a href = "https://x.com/AkbrIrwnda/"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png"/></a>
   <a href = "https://www.linkedin.com/in/AkbrIrwnda/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/AkbrIrwnda/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <br/>
