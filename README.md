@@ -37,7 +37,7 @@ Forever learner who love to share knowledge, I love to learn something new and b
 ## Connect with me:
 
 <p align="left">
-  <a href = "https://x.com/AkbrIrwnda/"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png"/></a>
+  <a href = "https://x.com/AkbrIrwnda/"><img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png"/></a>
   <a href = "https://www.linkedin.com/in/AkbrIrwnda/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href = "https://www.instagram.com/AkbrIrwnda/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
   <br/>
